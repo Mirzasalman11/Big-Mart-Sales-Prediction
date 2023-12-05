@@ -5,7 +5,7 @@ This Python script predicts sales for a retail store based on various features s
 ## Dataset
 
 - **Dataset Name**: Big Mart Sales Prediction Datasets
-- **Data Source**: [data upload ob git](https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets)
+- **Data Source**: [https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets]
 
 ## Project Structure
 
