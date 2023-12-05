@@ -2,12 +2,18 @@
 
 This Python script predicts sales for a retail store based on various features such as item details and outlet information. It uses a pre-trained machine learning model to make predictions.
 
+## Dataset
+
+- **Dataset Name**: Big Mart Sales Prediction Datasets
+- **Data Source**: [data upload ob git](https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets)
+
 ## Project Structure
 
 - **README.md**: Documentation of the project.
 - **main.py**: Python script for making sales predictions.
 - **encoder.joblib**: Pre-trained categorical encoder for preprocessing input data.
-- **model.joblib**: Pre-trained machine learning model for sales prediction.
+- **Big Mart Sales Prediction.ipynb**:model training and data-pre-processing.
+- **model.joblib**: when you run 'Big Mart Sales Prediction.ipynb' its automatically ave in directory
 
 ## Setup
 
